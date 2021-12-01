@@ -7,6 +7,7 @@ namespace personalregister
         static void Main(string[] args)
         {
             Console.WriteLine("Tell us your name and your salary");
+            Console.WriteLine();
             Console.Write("Type your name: ");
 
             string myName;
